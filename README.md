@@ -247,3 +247,21 @@ from new_table
 group by 1
 ```
 Objective: Label content as Bad_Content if description contains 'kill' or 'violence', otherwise Good_Content, then count totals.
+## 📊 Findings and Conclusion
+
+**Content Distribution:**  
+The dataset reveals a wide range of Movies and TV Shows, showcasing Netflix’s diverse content library across multiple genres, durations, and formats.
+
+**Common Ratings:**  
+The analysis of ratings highlights the most frequent maturity levels, providing insights into Netflix’s target audience and viewing preferences.
+
+**Geographical Insights:**  
+The findings emphasize Netflix’s global reach, with countries like the United States, India, and the United Kingdom contributing the most content.  
+Additionally, analyzing India’s yearly content releases offers a deeper understanding of its growing role in regional production.
+
+**Content Categorization:**  
+Categorizing titles based on specific keywords such as *“kill”* and *“violence”* helps assess the tone and nature of Netflix’s content portfolio.
+
+**Overall Conclusion:**  
+This analysis provides a comprehensive overview of Netflix’s catalog, revealing patterns in content type, audience focus, and regional distribution.  
+The insights gained can support data-driven **content strategy**, **audience targeting**, and **decision-making** for streaming and entertainment analytics.
